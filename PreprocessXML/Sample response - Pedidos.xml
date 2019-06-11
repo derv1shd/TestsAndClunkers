@@ -1,0 +1,921 @@
+﻿<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Header/>
+  <SOAP:Body>
+    <Consultar_Pedido_Venta_response_MT>
+      <Pedido>
+        <Numero>0003263525</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>05-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>06-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>06-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>19.110.921</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676087</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676087</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676087</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676087</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003269315</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>07-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>08-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>08-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>19.077.607</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676177</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676177</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676177</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676177</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003270965</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>08-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>11-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>11-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>19.105.780</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676234</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676234</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676234</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>14.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676234</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>14.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003273260</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>11-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>12-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>12-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>20.307.519</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676272</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>22.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676272</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>22.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00676272</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003277483</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>12-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>12-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>12-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>178.366</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000005501404</Producto_Id>
+          <Producto_Nombre>CARGO DE FRANQUICIAS</Producto_Nombre>
+          <Cantidad>1.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00722148</Nro_Factura>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003279346</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>13-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>14-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>14-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>18.722.260</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734360</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734360</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734360</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>12.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734360</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>12.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003279583</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>13-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>16-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>16-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>18.930.551</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734421</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734421</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734421</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>15.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734421</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>15.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003279453</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>13-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>13-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>13-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>130.304</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000005501408</Producto_Id>
+          <Producto_Nombre>ARRENDAMIENTO DE INMUEBLES RED PROPIA</Producto_Nombre>
+          <Cantidad>1.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00030965</Nro_Factura>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003287245</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>18-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>19-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>19-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>18.450.825</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734486</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734486</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734486</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>14.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734486</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>14.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003293350</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>20-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>21-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>21-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>18.937.952</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734565</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734565</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734565</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734565</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003299065</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>22-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>25-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>25-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>18.571.940</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734654</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734654</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734654</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734654</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>16.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003302106</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>25-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>26-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>26-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>18.161.721</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734712</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734712</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>20.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734712</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>20.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003309534</Numero>
+        <Estado>Pedido Liberado</Estado>
+        <Fecha_Creacion>27-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>28-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>28-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>0</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003309119</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>27-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>28-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>28-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>16.022.224</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734774</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734774</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>13.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734774</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>13.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003313797</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>29-07-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>30-07-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>30-07-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>18.915.638</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734835</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734835</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>19.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734835</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>19.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003315717</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>01-08-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>02-08-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>02-08-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>19.643.359</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734915</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734915</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>20.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734915</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>20.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+      <Pedido>
+        <Numero>0003321844</Numero>
+        <Estado>Pedido Facturado</Estado>
+        <Fecha_Creacion>03-08-2016</Fecha_Creacion>
+        <Fecha_Pref_Entrega>04-08-2016</Fecha_Pref_Entrega>
+        <Fecha_Entega>04-08-2016</Fecha_Entega>
+        <ShipTo>8SCL040016</ShipTo>
+        <Contacto/>
+        <Valor_Neto>17.969.129</Valor_Neto>
+        <Posicion>
+          <Posicion>000010</Posicion>
+          <Producto_Id>000000000004000569</Producto_Id>
+          <Producto_Nombre>Kerosene dom. ad. CL (174-2001) granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734994</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000020</Posicion>
+          <Producto_Id>000000000004000568</Producto_Id>
+          <Producto_Nombre>Kerosene dom. n/adit. CL 174 granel</Producto_Nombre>
+          <Cantidad>9.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000030</Posicion>
+          <Producto_Id>000000000004000564</Producto_Id>
+          <Producto_Nombre>Diesel Metr. A1 CL Decr. 319 CL; granel</Producto_Nombre>
+          <Cantidad>6.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734994</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000040</Posicion>
+          <Producto_Id>000000000004000581</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>13.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734994</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000050</Posicion>
+          <Producto_Id>000000000004000575</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 93 CL gr</Producto_Nombre>
+          <Cantidad>13.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+        <Posicion>
+          <Posicion>000060</Posicion>
+          <Producto_Id>000000000004000583</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. adit. RON 97CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura>00734994</Nro_Factura>
+        </Posicion>
+        <Posicion>
+          <Posicion>000070</Posicion>
+          <Producto_Id>000000000004000577</Producto_Id>
+          <Producto_Nombre>Gasolina metrop. no adit. RON 97 CL gr</Producto_Nombre>
+          <Cantidad>7.0</Cantidad>
+          <Nro_Guia/>
+          <Nro_Factura/>
+        </Posicion>
+      </Pedido>
+    </Consultar_Pedido_Venta_response_MT>
+  </SOAP:Body>
+</SOAP:Envelope>
