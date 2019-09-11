@@ -102,6 +102,10 @@ def button_tapped(sender):
 		eta = current_start() + calc_median()
 		sender.superview['text_label'].text =  'Started, ETA is ' + eta.strftime('%H:%M:%S')
 		clipboard.set('ETA is ' + eta.strftime('%H:%M:%S'))
+	elif sender.name == 'refresh':
+		eta = current_start() + calc_median()
+		sender.superview['text_label'].text = 'ETA is ' + eta.strftime('%H:%M:%S')
+		clipboard.set('ETA is ' + eta.strftime('%H:%M:%S'))
 
 def main():
 	# Optimization: Don't create a new view if the widget already shows the tally dataset.
@@ -109,16 +113,19 @@ def main():
 	v = appex.get_widget_view()
 	if v is not None and v.name == widget_name:
 		return
-	v = ui.View(frame=(0, 0, 320, 64), name=widget_name)
-	label = ui.Label(frame=(0, 32, 320, 32), flex='wh', font=('HelveticaNeue-Light', 24), alignment=ui.ALIGN_CENTER, text='Median: ' + str(calc_median()), line_break_mode=ui.LB_WORD_WRAP)
+	v = ui.View(frame=(0, 0, 320, 96), name=widget_name)
+	label = ui.Label(frame=(0, 32, 320, 64), flex='wh', font=('HelveticaNeue-Light', 24), alignment=ui.ALIGN_CENTER, text='Median: ' + str(calc_median()), line_break_mode=ui.LB_WORD_WRAP)
 	label.name = 'text_label'
 	v.add_subview(label)
 	logout_btn = ui.Button(name='start', image=ui.Image('iow:log_out_32'), flex='hl', tint_color='#666', action=button_tapped)
-	logout_btn.frame = (-32, -16, 32, 32)
+	logout_btn.frame = (-32, 0, 32, 32)
 	v.add_subview(logout_btn)
 	home_btn = ui.Button(name='end', image=ui.Image('iow:log_in_32'), flex='hl', tint_color='#666', action=button_tapped)
-	home_btn.frame = (320-64, -16, 32, 32)
+	home_btn.frame = (320-64, 0, 32, 32)
 	v.add_subview(home_btn)
+	refresh_btn = ui.Button(name='refresh', image=ui.Image('iow:ios7_refresh_outline_32'), flex='hl', tint_color='#666', action=button_tapped)
+	refresh_btn.frame = (320-112, 0, 32, 32)
+	v.add_subview(refresh_btn)
 	appex.set_widget_view(v)
 
 if __name__ == '__main__':
