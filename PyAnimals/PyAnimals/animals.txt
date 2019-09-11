@@ -1,0 +1,19 @@
+Q: Does it live in the sea?
+Q: Is it very big?
+A: Whale
+Q: Is it usually red?
+Q: Does it walk sideways?
+A: Crab
+A: Starfish
+Q: Does it lay eggs?
+A: Sea Turtle
+A: Dolphin
+Q: Does it fly?
+Q: Does it hunt its food?
+A: Eagle
+A: Dove
+Q: Does it have horns?
+A: Antelope
+Q: Is it a domestic animal?
+A: Cat
+A: Lion
